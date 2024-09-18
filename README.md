@@ -4,8 +4,6 @@ Aqui está um modelo de README para o seu projeto de criptografia de arquivos em
 
 ---
 
-# Secure File Encryptor
-
 ### Descrição
 O **Secure File Encryptor** é uma ferramenta desenvolvida em Python para garantir a proteção de arquivos sensíveis, utilizando o protocolo AES (Advanced Encryption Standard). A aplicação permite criptografar e descriptografar arquivos de uma pasta específica, garantindo que apenas usuários com a senha correta tenham acesso ao conteúdo dos arquivos. Além disso, o sistema gera backups criptografados dos arquivos em uma nova pasta.
 
